@@ -1,4 +1,5 @@
-# Git de Wasgba  
+  <center> <h2> Git de Wasgba</h2> </center>
+  
 ## Walterlan A. dos Santos  
 
 ### Olá! 👋 Bem-vindo ao meu perfil!
